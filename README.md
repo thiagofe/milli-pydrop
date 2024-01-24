@@ -1,8 +1,8 @@
 # MilliPyDrop v1.0
 
- #### MilliPyDrop é um programa de computador que efetua cálculos de incertezas do experimento da gota de Millikan
 
-- Download para o sistema operacional Windows: [MilliPyDrop v1.0](https://drive.google.com/drive/folders/1sUzVV2EW4wuB-aaSVzO89AYJN1O3bhOp?usp=drive_link)
+## Download
+- Windows: [MilliPyDrop v1.0](https://drive.google.com/file/d/1Ja7Ob1iv6j7HbCf7tMNJtww4gEK7DvFu/view?usp=sharing)
 
-- Download para o sistema operacional Linux em desenvolvimento.
+- Linux (em desenvolvimento)
   
